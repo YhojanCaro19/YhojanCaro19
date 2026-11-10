@@ -12,7 +12,4 @@
 ### Algunos proyectos
 
 - **[AVENTHRA](https://aventhra.online)** — mi plataforma. Next.js, TypeScript, PostgreSQL, multi-tenant. *(repo privado)*
-- **[proyecto-fullstack-docker](https://github.com/YhojanCaro19/proyecto-fullstack-docker)** — API Express + MySQL, frontend Astro/React, Nginx, docker-compose y CI.
-- **[miniblog](https://github.com/YhojanCaro19/miniblog)** — Flask + PostgreSQL en contenedores, desplegado con GitHub Actions.
-- **[mini-api-catalogo](https://github.com/YhojanCaro19/mini-api-catalogo)** — API REST de catálogo con FastAPI.
-- **[proyecto-integrador-moviles-g6](https://github.com/YhojanCaro19/proyecto-integrador-moviles-g6)** — app Android en Kotlin, en equipo.
+- **LiquidApp** — app de préstamos y cobros diarios para cobradores en ruta: clientes, abonos, gastos, caja y contabilidad. Expo + React Native (web en iPhone), TypeScript, Supabase y tiempo real. *(repo privado)*

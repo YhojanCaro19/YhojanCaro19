@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
-<rect width="1200" height="300" fill="#0d1117"/>
-<text x="0" y="40" font-family="'SF Mono',Menlo,Consolas,monospace" font-size="15" letter-spacing="2" fill="#8b949e">MEDELLÍN, CO</text>
-<text x="1200" y="40" text-anchor="end" font-family="'SF Mono',Menlo,Consolas,monospace" font-size="15" letter-spacing="2" fill="#8b949e">FULL STACK · IA · SAAS</text>
-<text x="-6" y="190" font-family="Inter,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="120" font-weight="700" letter-spacing="-5" fill="#f0f6fc">Yhojan Caro</text>
-<rect x="0" y="232" width="1200" height="1" fill="#30363d"/>
-<text x="0" y="276" font-family="Inter,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="22" fill="#8b949e">Founder de <tspan fill="#f0f6fc" font-weight="600">AVENTHRA</tspan></text>
-<text x="1200" y="276" text-anchor="end" font-family="Inter,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="22" fill="#8b949e">Desarrollador de software</text>
-</svg>

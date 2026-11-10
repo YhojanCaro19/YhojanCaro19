@@ -12,4 +12,4 @@
 ### Algunos proyectos
 
 - **[AVENTHRA](https://aventhra.online)** — mi plataforma. Next.js, TypeScript, PostgreSQL, multi-tenant. *(repo privado)*
-- **LiquidApp** — app de préstamos y cobros diarios para cobradores en ruta: clientes, abonos, gastos, caja y contabilidad. Expo + React Native (web en iPhone), TypeScript, Supabase y tiempo real. *(repo privado)*
+- **LiquidApp** — *confidencial*
